@@ -1,6 +1,6 @@
 ### Hola Fellows 👋
 
-So you made it through here so I can assume that you had heared much about me in my previous profile so I won't repeat it if not then you can check out my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said talk is cheap show me the code "Linus Torvalds" 😜
+So you made it through here so I can assume that you had heared much about me in my previous profile so I won't repeat it if not then you can check out my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said ##talk is cheap show me the code "Linus Torvalds" 😜
 
 
 
