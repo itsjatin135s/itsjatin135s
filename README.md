@@ -16,7 +16,7 @@ Thank you Very much for reading this wired intro. 😁
 
 Jatin Saini
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsjatin135s/itsjatin135s/main/static/code.gif" width="500" height="320" />
 
 
 <!--
@@ -39,20 +39,20 @@ Here are some ideas to get you started:
 
 ## Connect with Me 👇🏻:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
-   <img align="left" alt="Jatin's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img align="center" alt="Jatin's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.mrjatin.engineer" title = "It's Jatin">
-   <img align="left" alt="Jatin's Protfolio" width="40px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+   <img align="center" alt="Jatin's Protfolio" width="40px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
-   <img align="left" alt="Jatin's HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
+   <img align="center" alt="Jatin's HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 <br/>
 
 ### My Work
  
  <a href="http://www.ekchhat.ml/" title = "Ekchhat">
-   <img align="left" alt="Ekchhat" width="40px" src="http://www.ekchhat.ml/static/images/logo.jpeg" />
+   <img align="center" alt="Ekchhat" width="40px" src="http://www.ekchhat.ml/static/images/logo.jpeg" />
 </a>
 
 <br />
