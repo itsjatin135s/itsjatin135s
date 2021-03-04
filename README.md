@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <br/>
-
+<!--
 TechStack:
 <p> 
 <img align="center" alt="Tech" Title="Python" width="40px"  margin="5px"src="https://banner2.cleanpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpg" />
@@ -64,6 +64,7 @@ TechStack:
 <img align="center" alt="Tech" Title="Selenium" width="40px" margin="5px" src="https://banner2.cleanpng.com/20190320/rpt/kisspng-selenium-test-automation-software-testing-computer-5c9268a4a0bbe2.8617172015530989166584.jpg" />
 <img align="center" alt="Tech" Title="FastAPI" width="40px"  margin="5px"src="https://images.tute.io/tute/topic/FastAPI.png" />
 </p>
+-->
 
 <br/>
 <br/>
