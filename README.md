@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/">
-  <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ - <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.mrjatin.engineer">
-  <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+ - <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
 </a>
 
 <br />
