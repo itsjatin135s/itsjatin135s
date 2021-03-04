@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-
-[<img align="left" alt="https://www.mrjatin.engineer/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/">
+  <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
