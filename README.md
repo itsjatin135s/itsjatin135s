@@ -4,6 +4,12 @@ So you made it through here so I can assume that you had heared much about me in
 
 ### Talk is cheap show me the code "Linus Torvalds" 😜
 
+As a coder it's amazing to contribute in opensource so here are some of mine contribution it might be small but growing day by day cause -
+
+### Slow and Steady wins the Race 🤗
+
+I am aslo a Hacktoberfest 2020 winner 🎉
+
 
 
 <!--
