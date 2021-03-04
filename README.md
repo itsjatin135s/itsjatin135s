@@ -1,4 +1,4 @@
-# Hola Fellows 🖐🏻
+# Hola Fellows 🖐🏻 ![](https://visitor-badge.glitch.me/badge?page_id=itsjatin135s.itsjatin135s)
 
 So you made it through here so I can assume that you had heared much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
