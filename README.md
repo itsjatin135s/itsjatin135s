@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-### Connect with me:
+## Connect with Me:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
    <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-## My Work
+### My Work
  
  <a href="http://www.ekchhat.ml/" title = "Ekchhat">
    <img align="left" alt="Ekchhat" width="22px" src="http://www.ekchhat.ml/static/images/logo.jpeg" />
