@@ -1,6 +1,6 @@
 # Hola Fellows 👋
 
-So you made it through here so I can assume that you had heared much about me in my previous profile so I won't repeat it if not then you can check out my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
+So you made it through here so I can assume that you had heared much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
 ### Talk is cheap show me the code "Linus Torvalds" 😜
 
@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/">
   <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.mrjatin.engineer">
+  <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+</a>
+
 <br />
 <br />
 <br />
