@@ -1,7 +1,7 @@
 ### Hola Fellows 👋
 
 
-[![Website](https://lh3.googleusercontent.com/gbf4nw7A9TY8bOaGoWWNJCtAzv4HM0YQfLgLRHA5DOZr8P_j5bFeKgWBWxzEjLEvLc3-C2qncRDu4VG91_XeQhg=w16383)](https://www.mrjatin.engineer)
+[![Website](https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png)](https://www.mrjatin.engineer)
 
 <!--
 **itsjatin135s/itsjatin135s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
