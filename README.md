@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 TechStack:
 <p> 
-<img align="center" alt="Tech" Title="Python" width="40px"  margin="5px"src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />
+<img align="center" alt="Tech" Title="Python" width="40px"  margin="5px"src="https://banner2.cleanpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpg" />
 <img align="center" alt="Tech" Title="Flask" width="40px"  margin="5px"src="https://flask-training-courses.uk/images/flask-logo.png" />
-<img align="center" alt="Tech" Title="HTML5" width="40px" margin="5px" src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png" />
+<img align="center" alt="Tech" Title="HTML5 & CSS" width="40px" margin="5px" src="https://banner2.cleanpng.com/20180627/wop/kisspng-web-development-html-css-design-and-build-web-s-berlin-5b3339eb3a1a23.231863701530083819238.jpg" />
 <img align="center" alt="Tech" Title="CSS" width="40px"  margin="5px"src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" />
-<img align="center" alt="Tech" Title="SQL" width="40px" margin="5px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" />
+<img align="center" alt="Tech" Title="SQL" width="40px" margin="5px" src="https://w7.pngwing.com/pngs/121/866/png-transparent-microsoft-sql-server-database-computer-servers-microsoft-trademark-microsoft-sql.png" />
 <img align="center" alt="Tech" Title="Postgres" width="40px" margin="5px" src="https://img.favpng.com/24/24/21/postgresql-database-logo-computer-icons-replication-png-favpng-GUFaNw4pUQJQtMi2tYKnxLdLE.jpg" />
 <img align="center" alt="Tech" Title="Selenium" width="40px" margin="5px" src="https://banner2.cleanpng.com/20190320/rpt/kisspng-selenium-test-automation-software-testing-computer-5c9268a4a0bbe2.8617172015530989166584.jpg" />
 <img align="center" alt="Tech" Title="FastAPI" width="40px"  margin="5px"src="https://images.tute.io/tute/topic/FastAPI.png" />
