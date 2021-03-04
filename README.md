@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 ## Connect with Me 👇🏻:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
-   <img align="center" alt="Jatin's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <img align="left" margin-left=3px  alt="Jatin's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.mrjatin.engineer" title = "It's Jatin">
-   <img align="center" alt="Jatin's Protfolio" width="40px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+   <img align="left" margin-left=3px  alt="Jatin's Protfolio" width="40px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
-   <img align="center" alt="Jatin's HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
+   <img align="left" margin-left=3px  alt="Jatin's HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 <br/>
 
