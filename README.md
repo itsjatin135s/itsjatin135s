@@ -53,11 +53,17 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-My Work
+TechStack
  
- <a href="http://www.ekchhat.ml/" title = "Ekchhat">
-   <img align="center" alt="Ekchhat" width="40px" src="http://www.ekchhat.ml/static/images/logo.jpeg" />
-</a>
+<img align="center" alt="Tech" Title="Python" width="40px" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />
+<img align="center" alt="Tech" Title="Flask" width="40px" src="https://flask-training-courses.uk/images/flask-logo.png" />
+<img align="center" alt="Tech" Title="HTML5" width="40px" src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png" />
+<img align="center" alt="Tech" Title="CSS" width="40px" src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" />
+<img align="center" alt="Tech" Title="SQL" width="40px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" />
+<img align="center" alt="Tech" Title="Postgres" width="40px" src="https://img.favpng.com/24/24/21/postgresql-database-logo-computer-icons-replication-png-favpng-GUFaNw4pUQJQtMi2tYKnxLdLE.jpg" />
+<img align="center" alt="Tech" Title="Selenium" width="40px" src="https://banner2.cleanpng.com/20190320/rpt/kisspng-selenium-test-automation-software-testing-computer-5c9268a4a0bbe2.8617172015530989166584.jpg" />
+<img align="center" alt="Tech" Title="FastAPI" width="40px" src="https://images.tute.io/tute/topic/FastAPI.png" />
+
 
 <br/>
 <br/>
