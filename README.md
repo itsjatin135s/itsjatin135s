@@ -1,4 +1,4 @@
-# Hola Fellows 👋
+# Hola Fellows 🖐🏻
 
 So you made it through here so I can assume that you had heared much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-## Connect with Me:
+## Connect with Me 👇🏻:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
    <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
