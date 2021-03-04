@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
    <img align="left" margin-left=3px  alt="Jatin's HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
+<a href="mailto:jatinrajbagri2001@gmail.com" title = "Mail">
+   <img align="left" margin-left=3px  alt="Jatin's Mail_ID" width="40px" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/gmail_logo_round_icon_134018.png" />
+</a>
 <br/>
 <br/>
 
