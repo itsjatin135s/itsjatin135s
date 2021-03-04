@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    <img align="left" alt="Jatin's Protfolio" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135">
-   <img align="left" alt="Jatin's HackerRank" width="22px" src="https://www.iconfinder.com/icons/4519110/hackerrank_icon" />
+   <img align="left" alt="Jatin's HackerRank" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 <br/>
 
