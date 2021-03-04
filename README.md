@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 <a href="https://www.mrjatin.engineer">
    <img align="left" alt="Jatin's Protfolio" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
 </a>
+<a href="https://www.hackerrank.com/itsjatin135">
+   <img align="left" alt="Jatin's HackerRank" width="22px" src="https://www.iconfinder.com/icons/4519110/hackerrank_icon" />
+</a>
 <br/>
 
 ## My Work
