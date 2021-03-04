@@ -41,7 +41,12 @@ Here are some ideas to get you started:
    <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.mrjatin.engineer">
-   <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+   <img align="left" alt="Jatin's Protfolio" width="22px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+</a>
+ ## My Work
+ 
+ <a href="http://www.ekchhat.ml/">
+   <img align="left" alt="Ekchhat" width="22px" src="http://www.ekchhat.ml/static/images/logo.jpeg" />
 </a>
 
 <br />
