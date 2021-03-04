@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/">
   <img align="left" alt="Jatin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats" />
+
