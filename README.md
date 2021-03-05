@@ -72,6 +72,8 @@ TechStack:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <h2 align="center">📈 My GitHub Stats<h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats" />
