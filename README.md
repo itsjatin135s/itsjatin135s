@@ -42,10 +42,10 @@ Here are some ideas to get you started:
    <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.mrjatin.engineer" title = "It's Jatin">
-   <img align="left" margin-left=3px  alt="Jatin's Protfolio"  src="https://img.shields.io/badge/Website-%40Jatin-blue?style=for-the-badge&logo=appveyor" />
+   <img align="left" margin-left=3px  alt="Jatin's Protfolio"  src="https://img.shields.io/badge/Website-%40Jatin-blue?style=for-the-badge" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
-   <img align="left" margin-left=3px  alt="Jatin's HackerRank"  src="https://img.shields.io/badge/HackerRank-Jatin-Lightgreen" />
+   <img align="left" margin-left=3px  alt="Jatin's HackerRank"  src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge" />
 </a>
 <a href="mailto:itsjatin135@gmail.com" title = "Mail">
    <img align="left" margin-left=3px  alt="Jatin's Mail_ID"  src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
