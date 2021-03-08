@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.mrjatin.engineer" title = "It's Jatin">
-   <img align="left" margin-left=3px  alt="Jatin's Protfolio" width="40px" src="https://github.com/itsjatin135s/itsjatin135s/blob/main/static/websitelogogithub.png" />
+   <img align="left" margin-left=3px  alt="Jatin's Protfolio"  src="https://img.shields.io/badge/Website-%40Jatin-blue?style=for-the-badge&logo=appveyor" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
    <img align="left" margin-left=3px  alt="Jatin's HackerRank"  src="https://img.shields.io/badge/HackerRank-Jatin-Lightgreen" />
