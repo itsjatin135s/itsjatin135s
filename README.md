@@ -14,6 +14,7 @@
    <img align="left" margin-left=3px  alt="Jatin's Mail_ID"  src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
 </a>
 <br/>
+<br/>
 So you made it through here so I can assume that you had heared much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
 ### Talk is cheap show me the code "Linus Torvalds" 😜
@@ -44,7 +45,7 @@ TechStack:
 <img align="center" alt="Tech" Title="FastAPI" width="40px"  margin="5px"src="https://images.tute.io/tute/topic/FastAPI.png" />
 </p>
 -->
-
+---
 <br/>
 <h2>📈 My GitHub Stats<h2>
 
