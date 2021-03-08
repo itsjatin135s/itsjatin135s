@@ -45,10 +45,11 @@ TechStack:
 <img align="center" alt="Tech" Title="FastAPI" width="40px"  margin="5px"src="https://images.tute.io/tute/topic/FastAPI.png" />
 </p>
 -->
----
+
 <br/>
-<h2>📈 My GitHub Stats<h2>
+<h2 align='center'>✔ GitHub Stats<h2>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats"  align="left" />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsjatin135s&show_icons=true&hide_border=true&layout=compact&langs_count=4'alt="Jatin's Github Stats" align="right" />
-
+   
+---
