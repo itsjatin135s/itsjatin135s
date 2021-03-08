@@ -1,6 +1,6 @@
 # Hola Fellows 🖐🏻 ![](https://visitor-badge.glitch.me/badge?page_id=itsjatin135s.itsjatin135s)
 
-## Connect with Me 👇🏻:
+
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
    <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -86,12 +86,7 @@ TechStack:
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <h2>📈 My GitHub Stats<h2>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats"  align="left" />
