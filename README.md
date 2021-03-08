@@ -49,8 +49,8 @@ TechStack:
 <br/>
 <h3 align='center'>✔ GitHub Stats</h3>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats"  align="left" />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsjatin135s&show_icons=true&hide_border=true&layout=compact&langs_count=4'alt="Jatin's Github Stats" align="right" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats"  align="left"  width='60%' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsjatin135s&show_icons=true&hide_border=true&layout=compact&langs_count=4'alt="Jatin's Github Stats" align="right"  width='30%'/>
    
 <br/>
 
