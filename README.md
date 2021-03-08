@@ -1,5 +1,22 @@
 # Hola Fellows 🖐🏻 ![](https://visitor-badge.glitch.me/badge?page_id=itsjatin135s.itsjatin135s)
 
+## Connect with Me 👇🏻:
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-saini-077859172/" title = "My LinkdIn">
+   <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.mrjatin.engineer" title = "It's Jatin">
+   <img align="left" margin-left=3px  alt="Jatin's Protfolio"  src="https://img.shields.io/badge/Website-%40Jatin-blue?style=for-the-badge" />
+</a>
+<a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
+   <img align="left" margin-left=3px  alt="Jatin's HackerRank"  src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge" />
+</a>
+<a href="mailto:itsjatin135@gmail.com" title = "Mail">
+   <img align="left" margin-left=3px  alt="Jatin's Mail_ID"  src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+</a>
+<br/>
+<br/>
+
+
 So you made it through here so I can assume that you had heared much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
 ### Talk is cheap show me the code "Linus Torvalds" 😜
