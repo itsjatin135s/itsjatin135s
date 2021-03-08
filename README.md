@@ -20,7 +20,7 @@ So you made it through here so I can assume that you had heared much about me in
 ### Talk is cheap show me the code "Linus Torvalds" 😜
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsjatin135s/itsjatin135s/main/static/code.gif" width="500" height="320" />
 
-As a coder it's amazing to contribute in opensource so here are some of mine contribution it might be small but growing day by day cause -
+As a coder it's amazing to contribute in opensource so here are some of mine contribution it might be small but growing day by day cause
 
 ### Slow and Steady wins the Race 🤗
 
@@ -47,9 +47,10 @@ TechStack:
 -->
 
 <br/>
-<h2 align='center'>✔ GitHub Stats<h2>
+<h3 align='center'>✔ GitHub Stats</h3>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=itsjatin135s&show_icons=true&theme=gotham" alt="Jatin's Github Stats"  align="left" />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsjatin135s&show_icons=true&hide_border=true&layout=compact&langs_count=4'alt="Jatin's Github Stats" align="right" />
    
+<br/>
 ---
