@@ -24,9 +24,7 @@ As a coder it's amazing to contribute in opensource so here are some of mine con
 
 ### Slow and Steady wins the Race 🤗
 
-I am aslo a Hacktoberfest 2020 winner 🎉 my interest is in Machine Learning and AI and working for the same but work in the process...
-
-I love playing in basketball and singing. I think doing physical activities keep us alive with the very nature.
+I am aslo a Hacktoberfest 2020 winner 🎉 my interest is in Machine Learning and AI but work is in the process...
 
 Thank you Very much for reading this wired intro. 😁
 
