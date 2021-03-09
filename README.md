@@ -20,7 +20,7 @@ So you made it through here so I can assume that you had heared much about me in
 ### Talk is cheap show me the code "Linus Torvalds" 😜
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsjatin135s/itsjatin135s/main/static/code.gif" width="500" height="320" />
 
-As a coder it's amazing to contribute in opensource so here are some of mine contribution it might be small but growing day by day cause
+As a coder it's amazing to contribute in opensource so here I am with some of my contribution it might be small but growing day by day cause
 
 ### Slow and Steady wins the Race 🤗
 
