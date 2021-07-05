@@ -1,7 +1,7 @@
 # Hola Fellows 🖐🏻 ![](https://visitor-badge.glitch.me/badge?page_id=itsjatin135s.itsjatin135s)
 
 
-<a href="www.linkedin.com/in/itsjatin135" title = "My LinkdIn">
+<a href="https://www.linkedin.com/in/itsjatin135/" title = "My LinkdIn">
    <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.mrjatin.engineer" title = "It's Jatin">
