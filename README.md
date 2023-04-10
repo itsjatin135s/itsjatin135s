@@ -18,7 +18,7 @@
 So you made it through here so I can assume that you had heard much about me in my previous profiles(Linkdin, Protfolio etc...) so I won't repeat for the sake of saving your time if not then you can head over to my linkdin profile listed below. So now it's time to show up some code to you cause a wise man once said -
 
 ### Talk is cheap show me the code "Linus Torvalds" 😜
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsjatin135s/itsjatin135s/main/static/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/itsjatin135s/itsjatin135s/main/static/code.gif" style="border-radius:30%" width="500" height="320" />
 
 As a coder it's amazing to contribute in opensource so here I am with some of my contribution it might be small but growing day by day cause
 
