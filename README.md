@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/itsjatin135/" title = "My LinkdIn">
    <img align="left" margin-left="20px"  alt="Jatin's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.mrjatin.engineer" title = "It's Jatin">
+<a href="https://jatinbagri.com/" title = "It's Jatin">
    <img align="left" margin-left=3px  alt="Jatin's Protfolio"  src="https://img.shields.io/badge/Website-%40Jatin-blue?style=for-the-badge" />
 </a>
 <a href="https://www.hackerrank.com/itsjatin135" title = "Me at HackerRank">
